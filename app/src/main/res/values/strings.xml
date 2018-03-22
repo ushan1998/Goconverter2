@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Goconverter</string>
+    <string name="main_act_btn_one">Convert MB to GB</string>
+    <string name="main_act_btn_two">Convert KM to Miles</string>
+    <string name="main_act_btn_third">Convert CM to INCHES</string>
+    <string name="main_act_btn_fourth">Convert ML to L </string>
 </resources>
